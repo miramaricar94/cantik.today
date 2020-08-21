@@ -12,7 +12,7 @@ particlesJS("particles-js", {
       "value": "#ffffff"
     },
     "shape": {
-      "type": ["circle", "star"],
+      "type": "circle",
       "stroke": {
         "width": 2 ,
         "color": "#ffffff"
