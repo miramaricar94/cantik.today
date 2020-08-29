@@ -32,3 +32,13 @@ small {
 #particles-js {
   filter: blur(2px);
 }
+.clip-circle {
+  border-radius: 50%;
+  border-style: solid;
+    border:2px solid #f8f9fa;
+    height:60px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:60px;
+}
